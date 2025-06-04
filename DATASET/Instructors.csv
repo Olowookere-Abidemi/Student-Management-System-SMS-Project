@@ -1,0 +1,61 @@
+InstructorID,FullName,Gender,Email,DepartmentID,Specialization
+INS_101,Olivia Bishop,Male,oliviabishop@ui.edu.ng,DEPT_002,Land Valuation
+INS_102,Eleanor Johnson,Female,eleanorjohnson@ui.edu.ng,DEPT_003,Construction Economics
+INS_103,Gillian White,Male,gillianwhite@ui.edu.ng,DEPT_004,Urban Sociology
+INS_104,Susan Francis,Female,susanfrancis@ui.edu.ng,DEPT_005,Geodesy
+INS_105,Amber Turner,Male,amberturner@ui.edu.ng,DEPT_006,Site Management
+INS_106,Beverley O'Donnell,Female,beverleyo'donnell@ui.edu.ng,DEPT_001,CAD Modelling
+INS_107,Jayne Martin,Female,jaynemartin@ui.edu.ng,DEPT_002,Real Estate Law
+INS_108,Hugh Artrong,Male,hughartrong@ui.edu.ng,DEPT_003,Construction Economics
+INS_109,Charlotte Jones,Female,charlottejones@ui.edu.ng,DEPT_004,Transport Planning
+INS_110,Sian Collins,Female,siancollins@ui.edu.ng,DEPT_005,Geodesy
+INS_111,Darren Sheppard,Male,darrensheppard@ui.edu.ng,DEPT_006,Building Maintenance
+INS_112,Fiona Martin,Female,fionamartin@ui.edu.ng,DEPT_001,Building Technology
+INS_113,Marian Wilson,Female,marianwilson@ui.edu.ng,DEPT_002,Real Estate Law
+INS_114,Shirley Moore,Male,shirleymoore@ui.edu.ng,DEPT_003,Procurement Methods
+INS_115,Jodie Dodd,Male,jodiedodd@ui.edu.ng,DEPT_004,Land Use Planning
+INS_116,Jasmine Allen,Female,jasmineallen@ui.edu.ng,DEPT_005,GIS Mapping
+INS_117,Bryan Humphries,Male,bryanhumphries@ui.edu.ng,DEPT_006,Site Management
+INS_118,Lynn Robinson-Saunders,Male,lynnrobinson-saunders@ui.edu.ng,DEPT_001,Architectural Design
+INS_119,Sarah Rees,Female,sarahrees@ui.edu.ng,DEPT_002,Land Valuation
+INS_120,Mohammad Byrne,Male,mohammadbyrne@ui.edu.ng,DEPT_003,Project Costing
+INS_121,Clive Francis,Female,clivefrancis@ui.edu.ng,DEPT_004,Land Use Planning
+INS_122,Abdul Ross-Barnes,Male,abdulross-barnes@ui.edu.ng,DEPT_005,Geodesy
+INS_123,Lawrence Anderson,Male,lawrenceanderson@ui.edu.ng,DEPT_006,Building Maintenance
+INS_124,Elliot Willis,Male,elliotwillis@ui.edu.ng,DEPT_001,Building Technology
+INS_125,Raymond O'Connor,Male,raymondo'connor@ui.edu.ng,DEPT_002,Land Valuation
+INS_126,Stacey Wallace,Female,staceywallace@ui.edu.ng,DEPT_003,Construction Economics
+INS_127,Rosemary Brown,Female,rosemarybrown@ui.edu.ng,DEPT_004,Urban Sociology
+INS_128,Ian Lee,Male,ianlee@ui.edu.ng,DEPT_005,Geodesy
+INS_129,Iain O'Neill,Male,iaino'neill@ui.edu.ng,DEPT_006,Site Management
+INS_130,Jason Ford,Male,jasonford@ui.edu.ng,DEPT_001,CAD Modelling
+INS_131,Hilary Carpenter-Williaon,Female,hilarycarpenter-williaon@ui.edu.ng,DEPT_002,Real Estate Law
+INS_132,Aimee Rees,Male,aimeerees@ui.edu.ng,DEPT_003,Construction Economics
+INS_133,Yvonne Preston-Cameron,Female,yvonnepreston-cameron@ui.edu.ng,DEPT_004,Land Use Planning
+INS_134,Samantha Walton,Female,samanthawalton@ui.edu.ng,DEPT_005,Geodesy
+INS_135,Antony Wright,Male,antonywright@ui.edu.ng,DEPT_006,Construction Technology
+INS_136,Kim Thomas,Male,kimthomas@ui.edu.ng,DEPT_001,Architectural Design
+INS_137,Paula Williaon,Female,paulawilliaon@ui.edu.ng,DEPT_002,Property Management
+INS_138,Julie Greenwood-Foster,Female,juliegreenwood-foster@ui.edu.ng,DEPT_003,Procurement Methods
+INS_139,Luke Butler-Brookes,Male,lukebutler-brookes@ui.edu.ng,DEPT_004,Transport Planning
+INS_140,Sylvia Savage,Female,sylviasavage@ui.edu.ng,DEPT_005,GIS Mapping
+INS_141,Anea Lee-Hutchinson,Female,anealee-hutchinson@ui.edu.ng,DEPT_006,Building Maintenance
+INS_142,Duncan Young,Male,duncanyoung@ui.edu.ng,DEPT_001,CAD Modelling
+INS_143,Lesley Burton,Male,lesleyburton@ui.edu.ng,DEPT_002,Land Valuation
+INS_144,Hilary Artrong,Female,hilaryartrong@ui.edu.ng,DEPT_003,Procurement Methods
+INS_145,Carl Godfrey,Male,carlgodfrey@ui.edu.ng,DEPT_004,Urban Sociology
+INS_146,Albert Greenwood,Male,albertgreenwood@ui.edu.ng,DEPT_005,GIS Mapping
+INS_147,Tracey Gibbs,Female,traceygibbs@ui.edu.ng,DEPT_006,Construction Technology
+INS_148,Connor Wilson,Female,connorwilson@ui.edu.ng,DEPT_001,Architectural Design
+INS_149,John Hill,Male,johnhill@ui.edu.ng,DEPT_002,Land Valuation
+INS_150,Shane Humphreys-Barker,Female,shanehumphreys-barker@ui.edu.ng,DEPT_003,Project Costing
+INS_151,Clare Willia-Willis,Female,clarewillia-willis@ui.edu.ng,DEPT_004,Transport Planning
+INS_152,Timothy Turner,Male,timothyturner@ui.edu.ng,DEPT_005,Remote Sensing
+INS_153,Samantha Brooks,Female,samanthabrooks@ui.edu.ng,DEPT_006,Site Management
+INS_154,Dale Nicholls,Male,dalenicholls@ui.edu.ng,DEPT_001,Architectural Design
+INS_155,Stanley Hanson,Male,stanleyhanson@ui.edu.ng,DEPT_002,Land Valuation
+INS_156,Teresa Smith,Female,teresasmith@ui.edu.ng,DEPT_003,Procurement Methods
+INS_157,Mandy Bull,Female,mandybull@ui.edu.ng,DEPT_004,Urban Sociology
+INS_158,Naomi Bradley-Harris,Female,naomibradley-harris@ui.edu.ng,DEPT_005,Geodesy
+INS_159,Carolyn Hughes,Female,carolynhughes@ui.edu.ng,DEPT_006,Site Management
+INS_160,Timothy Dyer,Male,timothydyer@ui.edu.ng,DEPT_001,Architectural Design
